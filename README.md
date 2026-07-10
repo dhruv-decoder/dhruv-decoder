@@ -2,6 +2,11 @@
 <h1 align="center">Hi there, I'm Dhruv Tibarewal</h1>
 <h3 align="center">AI/ML Researcher & Production Engineer</h3>
 
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+reliable+AI+systems;Researching+AI+safety+for+Indic+languages;Shipping+production+ML+at+scale;Designing+multi-agent+workflows+with+evals;Making+AI+safer+%26+more+capable" alt="Typing SVG" /></a>
+</p>
+
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruv-tibarewal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
