@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+reliable+AI+systems;Researching+AI+safety+for+Indic+languages;Shipping+production+ML+at+scale;Designing+multi-agent+workflows+with+evals;Making+AI+safer+%26+more+capable" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+reliable+AI+systems;Researching+AI+safety+for+Indic+languages;Shipping+production+ML+at+scale;Designing+multi-agent+workflows+with+evals;Making+AI+safer+%26+more+capable" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social Badges -->
@@ -200,6 +200,7 @@ Interactive graph exploration for 10k+ nodes with 5k connections. Provenance-awa
 Context-aware mental-health platform with RAG, Llama Guard safety guardrails, DPO optimization, and DistilBERT query classification. Deployed on Hugging Face.
 
 <p>
+  <a href="https://github.com/phaneendra2429/Mental_Health_Chatbot"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
   <img src="https://img.shields.io/badge/RAG-9B59B6?style=flat-square" />
   <img src="https://img.shields.io/badge/Llama_Guard-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/DPO-58A6FF?style=flat-square" />
@@ -285,8 +286,8 @@ Collection of MLOps implementations including Docker containerization, Kubernete
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-decoder&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-decoder&layout=compact&hide_border=true&theme=dark&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=dhruv-decoder&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=dhruv-decoder&layout=compact&hide_border=true&theme=dark&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 ---
