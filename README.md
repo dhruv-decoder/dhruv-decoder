@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruv-tibarewal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/dhruvtibarewal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://dhruv-tibarewal-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dhruv-tibarewal-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://drive.google.com/file/d/1IcRm8qHuACCMEE9_oFLDCiONG4CXovPY/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-D14848?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="mailto:dhruvtibarewal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -302,12 +302,27 @@ Collection of MLOps implementations including Docker containerization, Kubernete
   <a href="https://www.kaggle.com/dhruvtibarewal"><img src="https://img.shields.io/badge/Kaggle-dhruvtibarewal-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 <p align="center">
-  <a href="https://dhruv-portfolio-one-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dhruv--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dhruv-tibarewal-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dhruv--tibarewal--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/dhruv-decoder/Dhruv_Portfolio"><img src="https://img.shields.io/badge/Portfolio%20Source-Dhruv__Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source" /></a>
 </p>
 
 ---
 
+<!-- Fun Footer -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+stopping+by!;Pull+requests+welcomed+%F0%9F%9A%80;Coffee+%E2%98%95+%E2%86%92+Code+%F0%9F%92%BB;Always+learning,+always+shipping;Let's+build+something+great" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20Python-58A6FF?style=flat-square" alt="Made with love and Python" />
+  <img src="https://img.shields.io/badge/Powered%20by-Caffeine-FFD700?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Powered by Caffeine" />
+  <img src="https://img.shields.io/badge/Status-Building...-22C55E?style=flat-square" alt="Status" />
+</p>
+
 <p align="center">
   <em>"I build AI systems that are reliable, safe, and actually useful in the real world."</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruv-decoder&label=Thanks%20for%20visiting%20%E2%9C%8C%EF%B8%8F&color=58a6ff&style=flat-square" alt="Profile Views" />
 </p>
