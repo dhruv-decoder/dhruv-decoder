@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Dhruv%20Tibarewal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%26%20Production%20Engineer&descSize=20&descColor=a8b2d1&descAlignY=55" width="100%" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+reliable+AI+systems;Researching+AI+safety+for+Indic+languages;Shipping+production+ML+at+scale;Designing+multi-agent+workflows+with+evals;Making+AI+safer+%26+more+capable" alt="Typing SVG" /></a>
-</p>
-
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruv-tibarewal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -280,15 +275,6 @@ Collection of MLOps implementations including Docker containerization, Kubernete
 </p>
 
 </details>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=dhruv-decoder&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=dhruv-decoder&layout=compact&hide_border=true&theme=dark&langs_count=8" width="48%" alt="Top Languages" />
-</p>
 
 ---
 
