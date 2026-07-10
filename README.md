@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+reliable+AI+systems;Researching+AI+safety+for+Indic+languages;Shipping+production+ML+at+scale;Designing+multi-agent+workflows+with+evals;Making+AI+safer+%26+more+capable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+reliable+AI+systems;Researching+AI+safety+for+Indic+languages;Shipping+production+ML+at+scale;Designing+multi-agent+workflows+with+evals;Making+AI+safer+%26+more+capable" alt="Typing SVG" />
 </p>
 
 <!-- Social Badges -->
@@ -53,7 +53,6 @@ Today, I work at the intersection of **AI research**, **production ML**, and **a
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
@@ -93,6 +92,9 @@ Today, I work at the intersection of **AI research**, **production ML**, and **a
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Dagshub-0B0E14?style=for-the-badge&logo=dagshub&logoColor=white" alt="Dagshub" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
 </p>
 
 ### Data & Visualization
@@ -210,6 +212,7 @@ Context-aware mental-health platform with RAG, Llama Guard safety guardrails, DP
 Intelligent web search agent with LLM query validation, ChromaDB semantic caching (50% similarity threshold), Playwright scraping, and Groq (Llama 3.1) summarization.
 
 <p>
+  <a href="https://github.com/dhruv-decoder/web_agent"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
   <img src="https://img.shields.io/badge/Groq-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/Llama_3.1-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/ChromaDB-FF4136?style=flat-square" />
@@ -236,6 +239,7 @@ Premium prediction API using AWS, Pydantic, and FastAPI for an insurance client.
   <a href="https://github.com/dhruv-decoder/Premium_pred"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
 </p>
 
 ### LLMs Analytical Reasoning
@@ -244,12 +248,46 @@ Premium prediction API using AWS, Pydantic, and FastAPI for an insurance client.
 Few-shot learning, chain of thought, and advanced prompting to assess and improve LLM (Llama-2) performance in logical, analytical, and mathematical tasks.
 
 <p>
+  <a href="https://github.com/dhruv-decoder/LLMs-analytical-reasoning-performance"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
   <img src="https://img.shields.io/badge/Llama_2-412991?style=flat-square" />
   <img src="https://img.shields.io/badge/Chain_of_Thought-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Together.AI-FF6B6B?style=flat-square" />
 </p>
 
+### Schema Finder for Government Schemes
+> AI Consultant - Jaagruk Bharat
+
+Built a schema-matching system to find relevant government schemes from 50,000+ entries. POC for matching user profiles to scheme eligibility criteria using semantic similarity.
+
+<p>
+  <a href="https://github.com/dhruv-decoder/schema_match"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Semantic_Matching-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-9B59B6?style=flat-square" />
+</p>
+
+### MLOps Projects
+> CI/CD, Model Registry, and Deployment Pipelines
+
+Collection of MLOps implementations including Docker containerization, Kubernetes orchestration, MLflow tracking, Dagshub versioning, and Jenkins CI/CD pipelines.
+
+<p>
+  <a href="https://github.com/dhruv-decoder/MLOps_projects"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dagshub-0B0E14?style=flat-square&logo=dagshub&logoColor=white" />
+</p>
+
 </details>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv-decoder&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-decoder&layout=compact&hide_border=true&theme=dark&langs_count=8" width="48%" alt="Top Languages" />
+</p>
 
 ---
 
