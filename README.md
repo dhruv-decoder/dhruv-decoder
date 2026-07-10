@@ -1,7 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Dhruv%20Tibarewal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Researcher%20%26%20Production%20Engineer&descSize=20&descColor=a8b2d1&descAlignY=55" width="100%" />
-</p>
+<!-- Header -->
+<h1 align="center">Hi there, I'm Dhruv Tibarewal</h1>
+<h3 align="center">AI/ML Researcher & Production Engineer</h3>
 
 <!-- Social Badges -->
 <p align="center">
@@ -303,10 +302,6 @@ Collection of MLOps implementations including Docker containerization, Kubernete
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" />
-</p>
 
 <p align="center">
   <em>"I build AI systems that are reliable, safe, and actually useful in the real world."</em>
