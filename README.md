@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruv-tibarewal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/dhruvtibarewal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://dhruv-portfolio-one-roan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dhruv-tibarewal-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://drive.google.com/file/d/1IcRm8qHuACCMEE9_oFLDCiONG4CXovPY/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-D14848?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="mailto:dhruvtibarewal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
